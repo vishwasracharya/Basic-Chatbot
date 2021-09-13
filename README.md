@@ -1,13 +1,13 @@
 # Basic-Chatbot
 This chatbot is created using HTML, CSS and JS. This chatbot works on hardcoded responses. Hence it says Basic Chatbot.
 
-#Tech/Language Used
+# Tech/Language Used
 - HTML
 - CSS
 - JS
 - jQuery
 
-#Software Used
+# Software Used
 - Visual Studio Code
 
 # Hi, I'm Vishwas Acharya! 👋

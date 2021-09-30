@@ -52,7 +52,8 @@ body {
   z-index: 1;
 }
 .chat-title {
-  padding: 1px 106px;
+    padding: 5px 3px 5px 3px;
+    margin: 0px 130px;
 }
 .outer-container {
   min-height: 500px;

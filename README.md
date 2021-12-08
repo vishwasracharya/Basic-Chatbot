@@ -1,4 +1,8 @@
-# Basic-Chatbot
+# Basic-Chatbot 
+<a href="https://github.com/vishwasracharya/Basic-Chatbot/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Jest is released under the MIT license." /></a>
+<a href="https://github.com/vishwasracharya/Basic-Chatbot/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishwasracharya/Basic-Chatbot?color=orange"></a>
+
+
 This chatbot is created using HTML, CSS and JS. This chatbot works on hardcoded responses. Hence it says Basic Chatbot.
 Link to website 👉 <a href="https://vishwasracharya.github.io/Basic-Chatbot">https://vishwasracharya.github.io/Basic-Chatbot</a>
 

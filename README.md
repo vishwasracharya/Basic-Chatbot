@@ -4,7 +4,7 @@
 
 
 This chatbot is created using HTML, CSS and JS. This chatbot works on hardcoded responses. Hence it says Basic Chatbot.
-Link to website 👉 <a href="https://vishwasracharya.github.io/Basic-Chatbot">https://vishwasracharya.github.io/Basic-Chatbot</a>
+> <a href="https://vishwasracharya.github.io/Basic-Chatbot">https://vishwasracharya.github.io/Basic-Chatbot</a>
 
 # Tech/Language Used
 - HTML
